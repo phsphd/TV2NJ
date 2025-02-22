@@ -26,10 +26,6 @@ TV2NJ is a powerful **TradingView to NinjaTrader (TV2NJ)** trading bot that enab
 - **Processes account-specific signals** by identifying the target account in TradingView alerts.  
 - Ensures trades are executed **only for the intended account** in multi-account setups.  
 
-### **✅ Manual Trading Features**  
-- **Retrieve real-time account balance and stock quotes**.  
-- **Dynamically adjust stop-loss and take-profit levels** based on market movement.  
-- **One-click trade execution**, allowing instant buy/sell orders, order cancellation, and account flattening.  
 
 ### **✅ Error Handling & Logging**  
 - Every trade, signal, and execution is **logged with timestamps** for full transparency.  
