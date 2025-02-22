@@ -56,7 +56,7 @@ Make sure you have **NinjaTrader 8** installed and set up for live or simulated 
 Set up **TradingView webhook alerts** to send JSON-based trading signals to TV2NJ.  
 
 ### **3️⃣ Run the TV2NJ Bot**  
-- Download and install **TV2NJ** from: [aiprediction.us/tv2nj/](https://aiprediction.us/tv2nj/).  
+- Download and install **TV2NJ** from: [aiprediction.us/software/](https://aiprediction.us/software/).  
 - Start the bot and configure it with your **NinjaTrader credentials and account settings**.  
 
 ### **4️⃣ Automate Your Trades!**  
