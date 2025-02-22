@@ -67,7 +67,7 @@ Enjoy **fully automated trading**, real-time execution, and profit-trailing mana
 ## **🛠️ Support & Questions**  
 Have questions or need assistance? **Join our community and discuss trading automation!**  
 
-📌 **Try TV2NJ for FREE at:** [aiprediction.us/tv2nj/](https://aiprediction.us/tv2nj/)  
+📌 **Try TV2NJ for FREE at:** [aiprediction.us/software](https://aiprediction.us/software/)  
 
 🚀 **Take your automated trading to the next level with TV2NJ!**
 
