@@ -68,7 +68,6 @@ Enjoy **fully automated trading**, real-time execution, and profit-trailing mana
 Have questions or need assistance? **Join our community and discuss trading automation!**  
 
 📌 **Try TV2NJ for FREE at:** [aiprediction.us/tv2nj/](https://aiprediction.us/tv2nj/)  
-⚠️ **Note:** Due to GitHub's **1 MB file size limit**, TV2NJ (4 MB) cannot be uploaded here. **Download it from the official website.**  
 
 🚀 **Take your automated trading to the next level with TV2NJ!**
 
